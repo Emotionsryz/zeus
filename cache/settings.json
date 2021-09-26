@@ -1,0 +1,10 @@
+{
+   "Token": "ODkwMzcwNDAwMTYzMzY0OTI0.YUu0DQ.Th1C-k1HEnsmJG4msxOH4vzjTDE",
+   "Channel Names": ["hackdd", "nuked", "ez!"],
+   "Role Names": ["hacked", "nuked", "ez!"],
+   "Webhook Names": ["hacked", "nuked", "ez"],
+   "Webhook Contents": ["@everyone hacked", "@everyone nuked", "@everyone ez"],
+   "Spam Amount": 30,
+   "Threads": 10,
+   "Bot": true
+}
