@@ -21,6 +21,8 @@ except (ModuleNotFoundError) as error:
   time.sleep(3)
   os._exit(0)
 
+os.system("mode 85,20")
+
 if sys.platform == "win32":
 	clear = lambda: os.system("cls")
 else:
@@ -168,11 +170,11 @@ async def niggers(channel):
 async def menu():
   clear()
   print("""
-                    \033[38;5;206m┌┼┐  ╔═╗╔═╗╦ ╦╔═╗  ┌┼┐
-                    \033[38;5;205m└┼┐  ╔═╝║╣ ║ ║╚═╗  └┼┐
-                    \033[38;5;204m└┼┘  ╚═╝╚═╝╚═╝╚═╝  └┼┘
-             \033[38;5;206m╚╦════════════════════════════════╦╝
-                 \033[38;5;206m  ⚡ Thunderbolt Speed  ⚡
+                             \033[38;5;206m┌┼┐  ╔═╗╔═╗╦ ╦╔═╗  ┌┼┐
+                             \033[38;5;205m└┼┐  ╔═╝║╣ ║ ║╚═╗  └┼┐
+                             \033[38;5;204m└┼┘  ╚═╝╚═╝╚═╝╚═╝  └┼┘
+                      \033[38;5;206m╚╦════════════════════════════════╦╝
+                          \033[38;5;206m  ⚡ Thunderbolt Speed  ⚡
 
 \033[38;5;206m[\033[38;5;204m?\033[38;5;206m] \033[0mSelect an operation below to continue\033[38;5;206m...
   \033[38;5;206m[ \033[38;5;204m1 \033[38;5;206m] \033[0m» Mass Ban 
