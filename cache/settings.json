@@ -1,10 +1,10 @@
 {
-   "Token": "ODkwMzcwNDAwMTYzMzY0OTI0.YUu0DQ.Th1C-aaaaa",
+   "Token": "add ur bot token here (u need all intents on)",
    "Channel Names": ["hackdd", "nuked", "ez!"],
    "Role Names": ["hacked", "nuked", "ez!"],
    "Webhook Names": ["hacked", "nuked", "ez"],
    "Webhook Contents": ["@everyone hacked", "@everyone nuked", "@everyone ez"],
    "Spam Amount": 30,
-   "Threads": 250,
+   "Threads": 120,
    "Bot": true
 }
