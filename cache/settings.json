@@ -5,6 +5,6 @@
    "Webhook Names": ["hacked", "nuked", "ez"],
    "Webhook Contents": ["@everyone hacked", "@everyone nuked", "@everyone ez"],
    "Spam Amount": 30,
-   "Threads": 10,
+   "Threads": 250,
    "Bot": true
 }
